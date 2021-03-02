@@ -1,6 +1,8 @@
 # Instagram-get-followers
 this bot follow and unfollow verified accounts to get followers.
 this is a bot made in python with selenium library. 
+So install chrome driver and then extract it.
+Then move .exe file to programs files ×86.
 you can add some of the people you want to follow (not private).
 please use https link while adding a person.
 it can take more time to follow and unfollow sometimes to escape from ban.
